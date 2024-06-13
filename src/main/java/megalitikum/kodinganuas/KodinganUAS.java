@@ -60,6 +60,9 @@ public class KodinganUAS {
 
         // Minta input pendapatan dari pengguna
         System.out.print("Masukkan pendapatan Anda: ");
+           System.out.print("Masukkan pendapatan Anda: ");
+           System.out.print("Masukkan pendapatan Anda: ");
+           System.out.print("Masukkan pendapatan Anda: ");
         double income = scanner.nextDouble();
 
         // Tentukan tarif pajak berdasarkan pekerjaan
