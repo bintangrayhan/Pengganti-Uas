@@ -19,7 +19,7 @@ public class KodinganUAS {
         String hasKTP = scanner.next();
 
         if (!hasKTP.equalsIgnoreCase("ya")) {
-            System.out.println("Anda harus memiliki KTP untuk menghitung pajak.");
+            System.out.println("kamu harus memiliki KTP untuk menghitung pajak.");
             scanner.close();
             return;
         }
